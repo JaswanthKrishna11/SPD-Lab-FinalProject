@@ -46,7 +46,7 @@ updated.
 
 # Software Tool Requirements:
 
-**Front-End Development:** HTML, CSS, JavaScript, EJS, Express and React
+**Front-End Development:** HTML, CSS, JavaScript, EJS, Express , ReactJs 
 
 **Middle-End Development:** NodeJs and ReactJs
 
